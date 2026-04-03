@@ -1,0 +1,28 @@
+{
+  "layer_name": "model.out_conv",
+  "module_type": "Conv2d",
+  "in_channels": 32,
+  "out_channels": 3,
+  "kernel_size": [
+    1,
+    1
+  ],
+  "stride": [
+    1,
+    1
+  ],
+  "padding": [
+    0,
+    0
+  ],
+  "dilation": [
+    1,
+    1
+  ],
+  "groups": 1,
+  "padding_mode": "zeros",
+  "output_scale": 0.016853773966431618,
+  "output_zero_point": 140,
+  "weight_meta_file": "weight_meta.json",
+  "bias_file": "bias.npy"
+}

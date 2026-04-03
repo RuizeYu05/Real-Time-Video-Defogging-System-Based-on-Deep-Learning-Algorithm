@@ -1,0 +1,28 @@
+{
+  "layer_name": "model.dec1.conv.2",
+  "module_type": "ConvReLU2d",
+  "in_channels": 64,
+  "out_channels": 64,
+  "kernel_size": [
+    3,
+    3
+  ],
+  "stride": [
+    1,
+    1
+  ],
+  "padding": [
+    1,
+    1
+  ],
+  "dilation": [
+    1,
+    1
+  ],
+  "groups": 1,
+  "padding_mode": "zeros",
+  "output_scale": 0.014086251147091389,
+  "output_zero_point": 0,
+  "weight_meta_file": "weight_meta.json",
+  "bias_file": "bias.npy"
+}

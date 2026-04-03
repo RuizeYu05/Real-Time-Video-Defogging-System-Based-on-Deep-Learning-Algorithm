@@ -1,0 +1,14 @@
+{
+  "qscheme": "torch.per_channel_affine",
+  "shape": [
+    3,
+    32,
+    1,
+    1
+  ],
+  "dtype": "torch.qint8",
+  "scale_file": "weight_scales.npy",
+  "zero_point_file": "weight_zero_points.npy",
+  "axis": 0,
+  "int_repr_dtype": "int8"
+}
